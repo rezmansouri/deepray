@@ -10,6 +10,10 @@ The U-Net architecture can classify an image down to pixel-level, i.e. Semantic 
   <img src="https://user-images.githubusercontent.com/46050829/200048878-be0a4a0c-e5f1-4281-9d01-8473e2f468a7.png" width="70%"/>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46050829/215320591-ca870557-edbe-4981-aac7-da9fd510d10a.png" width="70%"/>
+</p>
+
 # Links
 - <a href="https://colab.research.google.com/drive/1MwDyc2Vz7QQp93fj10Pu-CK9npKgZzdU" target="_blank">DeepRay on Google Colab</a>
 
